@@ -1,0 +1,15 @@
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/erick/Documentos/Projetos/CRUD-Series/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
